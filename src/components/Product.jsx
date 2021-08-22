@@ -4,6 +4,7 @@ import Card from "./Card"
 import Carousel from 'react-elastic-carousel';
 
 function Product({title,items}) {
+    // kk
     const breakPoints = [
         { width: 1, itemsToShow: 1 },
         { width: 550, itemsToShow: 2, itemsToScroll: 2 },
