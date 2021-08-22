@@ -1,4 +1,4 @@
-import Item from "./Item";
+
 import React from 'react'
 import Card from "./Card"
 import Carousel from 'react-elastic-carousel';
